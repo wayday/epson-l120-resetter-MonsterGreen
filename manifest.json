@@ -1,0 +1,16 @@
+{
+  "name": "Epson L120 Resetter",
+  "short_name": "EpsonResetter",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#003399",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2874/2874280.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
